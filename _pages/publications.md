@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
+title: Publications
 description: No Publication at present, coming soon. Below publications from Albert Einstein just for good appearance.
 nav: true
 nav_order: 1

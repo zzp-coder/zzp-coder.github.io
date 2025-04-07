@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.bristol.ac.uk/'>University of Bristol</a>    zhengzhe.peng@bristol.ac.uk
 
